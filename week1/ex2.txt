@@ -1,0 +1,16 @@
+    1  ls
+    2  cd home
+    3  mkdir week1
+    4  ls
+    5  cd..
+    6  cd ..
+    7  ls usr/bin | grep 'gcc' | sort -r > week1/ex1.txt
+    8  ls usr/bin | grep 'gcc' | sort -r > home/week1/ex1.txt
+    9  cat --help
+   10  cd home
+   11  cd week1
+   12  cat ex1.txt
+   13  oh hello there
+   14  i am just making my hometask
+   15  just keep checking homework
+   16  history > ex2.txt
