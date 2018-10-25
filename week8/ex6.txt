@@ -1,0 +1,2 @@
+Offset space: log(1024*8) = log(2^10 * 2^3) = 13 bit
+16-13=3 upper bit => we can specify 2^3=8 pages or 8 entries 

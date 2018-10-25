@@ -1,0 +1,3 @@
+Virtual memory is an abstraction to give the illusion of having infinite memory available on system.
+Virtual memory is mapped to a physical memory. The operating system manages these mappings - utilizing the page table, among other data structures to maintain the mappings.
+Virtual memory is typically larger than physical memory.
