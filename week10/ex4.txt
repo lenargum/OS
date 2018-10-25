@@ -1,0 +1,4 @@
+Links for "link1": link1 file1.txt 
+Links for "..": .. 
+Links for ".": . 
+Links for "file1.txt": link1 file1.txt 
