@@ -1,0 +1,7 @@
+-rw-rw-rw- 1 lenargum lenargum 0 окт 25 21:41 _ex3.txt
+-rwxrw-rwx 1 lenargum lenargum 0 окт 25 21:41 _ex3.txt
+-rwxrwxrwx 1 lenargum lenargum 0 окт 25 21:41 _ex3.txt
+
+660 - owner and group can read, write, others can not
+775 - owner and group can read, write and execute, others can read, but can not execute
+777 - everyone can read, write, execute
