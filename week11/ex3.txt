@@ -1,0 +1,2 @@
+\n" cleans the buffer.
+So, in program 1 after forking buffer is not empty and it prints "hello" twice, in program 2 "hello\n" cleans buffer and child process prints just "\n"
