@@ -1,0 +1,2 @@
+Then more buffer size we have then faster it works with or without O_SYNC.
+With O_SYNC big amount of data copies longer, but it can do it faster with bigger buffer size.
